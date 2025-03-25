@@ -3,7 +3,7 @@
 Após enviar todo o input, pressione enter mais uma vez em uma linha vazia para ele finalizar o ciclo!
 ```
 
-**Meu Input**
+**Input Exemplo**
 ```
 ATTAAAATTAAAATTAAAATTAAAATTAAAATTAAAATTAAAATTAAAATTAAAATTAAA
 GTTCGTGTTCGTGTTCGTGTTCGTGTTCGTGTTCGTGTTCGTGTTCGTGTTCGTGTTCGT
