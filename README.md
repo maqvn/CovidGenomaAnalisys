@@ -1,1 +1,20 @@
-```Após dar input no arquivo com os genomas, pressione enter mais uma vez em uma linha vazia para ele finalizar o ciclo```
+***Primeira Questão***
+```Após dar input no arquivo com os genomas, pressione enter mais uma vez em uma linha vazia para ele finalizar o ciclo!```
+
+**Meu Input**
+```
+ATTAAAATTAAAATTAAAATTAAAATTAAAATTAAAATTAAAATTAAAATTAAAATTAAA
+GTTCGTGTTCGTGTTCGTGTTCGTGTTCGTGTTCGTGTTCGTGTTCGTGTTCGTGTTCGT
+CTGACCCTGACCCTGACCCTGACCCTGACCCTGACCCTGACCCTGACCCTGACCCTGACC
+GTAGTAGTAGTAGTAGTAGTAGTAGTAGTAGTAGTAGTAGTAGTAGTAGTAGTAGTAGTA
+CAGATACAGATACAGATACAGATACAGATACAGATACAGATACAGATACAGATACAGATA
+```
+
+**Output**
+```
+CTGACC | 10
+ATTAAA | 10
+GTAGTA | 10
+GTTCGT | 10
+CAGATA | 10
+```
